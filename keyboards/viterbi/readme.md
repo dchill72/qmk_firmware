@@ -17,7 +17,9 @@ Example of flashing this keyboard:
     make viterbi/rev1:default:avrdude
 
 For USB-C use:
+
     make viterbi/rev1:default:dfu
+
 See [build environment setup](https://docs.qmk.fm/build_environment_setup.html) then the [make instructions](https://docs.qmk.fm/make_instructions.html) for more information.
 
 A build guide for this keyboard can be found here: [Viterbi Build Guide](https://docs.keeb.io)
